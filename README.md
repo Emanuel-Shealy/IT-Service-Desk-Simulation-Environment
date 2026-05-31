@@ -1,37 +1,50 @@
-# IT-Service-Desk-Simulation-Environment
+# IT Service Desk Simulation Environment
+
+## Overview
 Developed a simulated IT service desk environment to practice Tier 1 technical support operations, ticket management workflows, troubleshooting methodologies, and incident resolution procedures aligned with enterprise IT support environments.
 
-Technologies Used:
-ServiceNow / Jira Service Management
-Windows Operating Systems
-Networking Fundamentals
-PowerShell
+## Technologies Used
+- ServiceNow / Jira Service Management
+- Windows Operating Systems
+- Networking Fundamentals
+- PowerShell
 
-Features:
-Incident ticket lifecycle management
-Ticket prioritization and escalation workflows
-SLA-focused support operations
-Technical troubleshooting documentation
-User support simulation
-Knowledge base article creation
+## Service Desk Operations
+- Incident ticket lifecycle management
+- Ticket assignment workflows
+- Troubleshooting documentation
+- Ticket escalation procedures
+- SLA-focused support operations
+- Resolution tracking
 
-Example Support Scenarios:
-Ticket ID	Issue	Resolution
-User account lockout	Password reset and account unlock
-Printer offline	Restarted spooler service and reconnected printer
-Network connectivity issue	Diagnosed DNS configuration problem
-Outlook crashing	Repaired Office installation
+## Ticket Lifecycle Stages
 
-Skills Demonstrated:
-Tier 1 Technical Support
-Incident Management
-Troubleshooting Methodology
-Customer Support Operations
-Ticket Documentation
-Escalation Procedures
-SLA Workflow Management
-Future Improvements
-Automated ticket routing
-Asset management integration
-Remote support simulation
-Dashboard analytics
+| Stage | Purpose |
+|---|---|
+| Assigned | Ticket ownership established |
+| Investigating | Issue analysis initiated |
+| Troubleshooting | Active remediation process |
+| Resolved | Issue corrected |
+| Closed | Ticket completion documented |
+
+## Example Support Scenarios
+- User login issues
+- Printer connectivity failures
+- Network troubleshooting
+- Outlook application issues
+- Workstation performance problems
+
+## Skills Demonstrated
+- Tier 1 Technical Support
+- Incident Management
+- Troubleshooting Methodology
+- Ticket Documentation
+- Customer Support Operations
+- Escalation Procedures
+- SLA Workflow Management
+
+## Future Improvements
+- Automated ticket routing
+- Asset management integration
+- Remote support simulation
+- Service desk dashboard analytics
